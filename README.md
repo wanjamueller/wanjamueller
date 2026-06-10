@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wanjamueller
-- 🌱 I’m currently learning basics of computer science to become a better product manager.
+- 🌱 I’m currently studying to become a Fullstack Engineer!
 
 <!---
 wanjamueller/wanjamueller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
