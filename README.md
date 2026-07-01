@@ -17,7 +17,7 @@ between users and technology. Now I'm learning to build it myself.
 - ✅ HTML
 - ✅ CSS
 - 🔄 JavaScript ← here right now
-- ⏳ React, vue.js, Angular, Python — up next
+- ⏳ React, vue.js, Angular, Typescript, Python — up next
 
 ---
 
